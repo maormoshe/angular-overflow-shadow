@@ -1,3 +1,5 @@
 # NgxOverflowShadow
 
-- Please go to: `https://github.com/maormoshe/OverflowShadowLibrary`
+- Repository: https://github.com/maormoshe/OverflowShadowLibrary
+
+- Package: https://www.npmjs.com/package/ngx-overflow-shadow
